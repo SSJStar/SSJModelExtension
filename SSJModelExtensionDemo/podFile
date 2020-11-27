@@ -1,0 +1,6 @@
+source 'https://github.com/CocoaPods/Specs.git'
+target 'SSJModelExtensionDemo' do
+  #pod 'MJExtension', '~> 3.2.2'
+  #pod 'AFNetworking', '~> 4.0.1'
+end
+
