@@ -1,0 +1,2 @@
+# SSJModelExtension
+模仿MJExtension的核心思想，写了一个简易版的框架，实现NSDictionary和数据模型类之间的互相转换
